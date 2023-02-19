@@ -1,1 +1,1 @@
-# grpc-java-course
+# grpc-kotlin-course
